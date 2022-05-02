@@ -1,2 +1,2 @@
-# Vizuvalaisation
-Vizuvalaisation
+# visualization
+visualization
